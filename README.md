@@ -1,5 +1,6 @@
 # docker_cleaner
-This scripts cleans docker
+This scripts cleans docker.
+I did not write this code; I copied it from a comment and added it here so that I can access it more easily.
 
 # Usage:
 
