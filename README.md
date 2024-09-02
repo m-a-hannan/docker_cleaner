@@ -14,6 +14,6 @@ I did not write this code; I copied it from a comment and added it here so that 
     chmod +x docker_cleaner.sh
 
 ## 4. Run the script:
-    sh docker_cleaner.sh
+    sudo sh docker_cleaner.sh
 ### or
-    bash docker_cleaner.sh
+    sudo bash docker_cleaner.sh
