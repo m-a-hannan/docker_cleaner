@@ -15,4 +15,4 @@ This scripts cleans docker
 ## 4. Run the script:
 `sh docker_cleaner.sh`
 ### or
-``sh docker_cleaner.sh``
+`bash docker_cleaner.sh`
